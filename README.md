@@ -8,9 +8,9 @@ This project focuses on classifying Iris flower species (Setosa, Versicolor, Vir
 4. Model Evaluation: Accuracy comparison before and after tuning.
 5. Decision Tree Visualization\
 
-# Tools & Libraries
-Python
-Scikit-Learn
-Pandas, NumPy
+# Tools & Libraries 
+'Python'
+'Scikit-Learn'
+'Pandas', NumPy
 Matplotlib, Seaborn
 Graphviz (for Decision Tree visualization)
